@@ -172,4 +172,3 @@ Minha dedicação me impulsiona a buscar constantemente novos desafios e a aprof
   />
 
 </p>
-![Snake animation](https://github.com/pedronilocarvalho/pedronilocarvalho/blob/output/github-contribuition-grid-snake.svg)
