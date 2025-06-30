@@ -7,19 +7,7 @@ Olá! Sou Pedro, um profissional de 37 anos apaixonado por tecnologia e determin
 Minha dedicação me impulsiona a buscar constantemente novos desafios e a aprofundar meus conhecimentos em hardware e software. Em formação em Análise e Desenvolvimento de Sistemas e diversos cursos, meu objetivo é atuar como estagiário ou desenvolvedor júnior, onde possa adquirir experiência prática e contribuir ativamente para as demandas da equipe, gerando valor e impulsionando meu crescimento profissional.
 
 <p align="left">
-    <a href="https://www.youtube.com/@pedronilocarvalho">
-        <img 
-            alt="Inscritos" 
-            title="Inscreva-se" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC207Q_Ncw9YtapiWlEoPX0w?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@pedronilocarvalho">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC207Q_Ncw9YtapiWlEoPX0w?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
+    
     </a> 
     <a href="https://github.com/pedronilocarvalho?tab=repositories&sort=stargazers">
         <img 
