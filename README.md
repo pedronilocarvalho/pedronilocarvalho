@@ -170,5 +170,7 @@ Minha dedicação me impulsiona a buscar constantemente novos desafios e a aprof
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedronilocarvalho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+![Snake animation](https://github.com/pedronilocarvalho/pedronilocarvalho/blob/output/github-contribution-grid-snake.svg)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=pedronilocarvalho username&repo=pedronilocarvalho username&theme=react)](https://github.com/pedronilocarvalho/pedronilocarvalho)
 
 </p>
