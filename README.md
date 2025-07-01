@@ -72,7 +72,7 @@ Minha dedicação me impulsiona a buscar constantemente novos desafios e a aprof
     align="left" 
     alt="GitHub Stats" 
     height="150" 
-    style="padding-right: 10px;" 
+    style="padding-right: 20px;" 
     src="https://github-readme-stats.vercel.app/api?username=pedronilocarvalho&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
